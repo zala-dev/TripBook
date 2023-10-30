@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Adelaide",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": -34.92123,
+        "lng": 138.599503
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Rajkot",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-31T22:16:30.000Z",
+      "notes": "It is always great to visit your home town!",
+      "position": {
+        "lat": "22.177231792821356",
+        "lng": "70.82885742187501"
+      },
+      "id": 98443200
+    }
+  ]
+}
